@@ -17,25 +17,25 @@ Detailed syllabus and lecture notes can be found at http://cs20si.stanford.edu
 Using the Chatbot<br>
 -----------------<br>
 
-1) Check out this repository. 
-git clone https://github.com/ClaudeCoulombe/tf-stanford-tutorials.git
+1) Check out this repository. <br>
+git clone https://github.com/ClaudeCoulombe/tf-stanford-tutorials.git<br>
 
-2) Download and unzip the dataset and put it in the data sub-folder
-https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html
+2) Download and unzip the dataset and put it in the data sub-folder<br>
+https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html<br>
 
-3) Change the DATA_PATH in the config.py, line 20
+3) Change the DATA_PATH in the config.py, line 20<br>
 
-4) Then run the data.py file
-> python data.py
-It should create the folder 'processed', and then put a bunch of data files into it.
+4) Then run the data.py file<br>
+python data.py<br>
+It should create the folder 'processed', and then put a bunch of data files into it.<br>
 
-5) Train the model
-> python chatbot.py --mode train
-You could interrupt it afeter a long time or when the loss is low enough
-since the TensorFlow model is saved in the checkpoints folder
+5) Train the model<br>
+python chatbot.py --mode train<br>
+You could interrupt it afeter a long time or when the loss is low enough<br>
+since the TensorFlow model is saved in the checkpoints folder<br>
 
-6) Interact with the Chatbot
-> python chatbot.py --mode chat
+6) Interact with the Chatbot<br>
+> python chatbot.py --mode chat<br>
 
 
 
