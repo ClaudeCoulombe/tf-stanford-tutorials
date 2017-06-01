@@ -1,10 +1,8 @@
-# tf-stanford-tutorials
-This repository contains code examples for the course CS 20SI: TensorFlow for Deep Learning Research. <br>
-It will be updated as the class progresses. <br>
-Detailed syllabus and lecture notes can be found here http://cs20si.stanford.edu
+# tf-stanford-tutorials Chatbot
+This repository contains the code example for a Chatbot from the course CS 20SI: TensorFlow for Deep Learning Research at Stanford University<br>
+I've updated the code in order to be compatible wit h Python 3 and TensorFlow 1.1'<br>
 
-# Note (as of May 8)
-This repository is currently in TF 0.12. I'm currently in the process of transitioning it to TF1.1. I will update the repo when this is done.
+Detailed syllabus and lecture notes can be found here http://cs20si.stanford.edu
 
 ## Models include: <br>
 ### In the folder "examples": <br>
