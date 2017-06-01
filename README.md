@@ -1,7 +1,7 @@
 # tf-stanford-tutorials Chatbot
 This repository contains the code example for a Chatbot from the course CS 20SI: TensorFlow for Deep Learning Research at Stanford University<br>
 
-A neural chatbot using sequence to sequence model with attentional decoder in TensorFlow. Originally it was created by Chip Huyen as the starter code for an assignment «TensorFlow for Deep Learning Research» cs20si.stanford.edu﻿
+It is a complete but primitive neural chatbot using sequence to sequence model with attentional decoder in TensorFlow. Originally it was created by Chip Huyen as the starter code for an assignment «TensorFlow for Deep Learning Research» cs20si.stanford.edu﻿
 
 Original Github code repo:
 https://goo.gl/QH6M6E
