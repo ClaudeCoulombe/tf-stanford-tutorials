@@ -9,7 +9,7 @@ https://goo.gl/QH6M6E
 A companion assignment instructions sheet:  web.stanford.edu - 
 https://goo.gl/vfGQI4
 
-Claude Coulombe updated the code in order to be compatible wit h Python 3 and TensorFlow 1.1. On May 31 2017, it seems to work correctly but have not the computing ressources to train it for a long period of time.<br>
+Claude Coulombe, TÉLUQ / UQAM Montréal, updated the code in order to be compatible wit h Python 3 and TensorFlow 1.1. On May 31 2017, it seems to work correctly but have not the computing ressources to train it for a long period of time.<br>
 
 Detailed syllabus and lecture notes can be found at http://cs20si.stanford.edu
 <br>
