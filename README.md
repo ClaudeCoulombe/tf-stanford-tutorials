@@ -31,10 +31,10 @@ It should create the folder 'processed', and then put a bunch of data files into
 
 5) Train the model<br>
 python chatbot.py --mode train<br>
-You could interrupt it afeter a long time or when the loss is low enough<br>
-since the TensorFlow model is saved in the checkpoints folder<br>
+You could interrupt it after a long time or when the loss is low enough<br>
+since the TensorFlow model is saved in the checkpoints folder you can recover the models<br>
 
-6) Interact with the Chatbot<br>
+6) Interact / play with the Chatbot<br>
 python chatbot.py --mode chat<br>
 
 
