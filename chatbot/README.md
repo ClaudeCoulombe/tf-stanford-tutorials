@@ -11,7 +11,7 @@ Created by Chip Huyen as the starter code for assignment 3,
 class CS 20SI: "TensorFlow for Deep Learning Research"
 cs20si.stanford.edu
 
-Updated for Python 3 and TensorFlow 1.1 by Claude Coulombe - PhD student - May 31 2017
+Updated for Python 3 and TensorFlow 1.1 by Claude Coulombe - PhD candidate - TÉLUQ / UQAM - May 31 2017
 
 The detailed assignment handout and information on training time can be found at http://web.stanford.edu/class/cs20si/assignments/a3.pdf 
 
