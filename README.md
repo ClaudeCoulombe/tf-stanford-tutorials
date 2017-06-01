@@ -35,7 +35,7 @@ You could interrupt it afeter a long time or when the loss is low enough<br>
 since the TensorFlow model is saved in the checkpoints folder<br>
 
 6) Interact with the Chatbot<br>
-> python chatbot.py --mode chat<br>
+python chatbot.py --mode chat<br>
 
 
 
