@@ -14,8 +14,8 @@ Claude Coulombe, TÉLUQ / UQAM Montréal, updated the code in order to be compat
 Detailed syllabus and lecture notes can be found at http://cs20si.stanford.edu
 <br>
 
-Using the Chatbot<br>
------------------<br>
+Instructions:<br>
+-------------<br>
 
 1) Check out this repository. <br>
 git clone https://github.com/ClaudeCoulombe/tf-stanford-tutorials.git<br>
